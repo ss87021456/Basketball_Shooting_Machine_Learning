@@ -10,3 +10,6 @@ sklearn
 Cross-Validation get nearly 85% accuarcy
 ### PCA visualization of training data
 ![image](https://github.com/ss87021456/Basketball_Shooting_Machine_Learning/blob/master/PCA.png)
+### Usage
+python train.py
+![image](https://github.com/ss87021456/Basketball_Shooting_Machine_Learning/blob/master/train.png)
