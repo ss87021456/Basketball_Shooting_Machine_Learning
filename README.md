@@ -1,4 +1,4 @@
-# Basketball_Shooting_Machine_Learning
+# Basketball Shooting Machine Learning
 Using 6-Axis data from hand-back to predict your shooting result
 ### Dependencies:
 python 2.7<br>
