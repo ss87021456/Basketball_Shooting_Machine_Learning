@@ -4,7 +4,9 @@ Using 6-Axis data from hand-back to predict your shooting result
 python 2.7<br>
 numpy <br>
 sklearn 
-### Training dataset: Features.csv Labels.csv
+### Training dataset: 
+Features.csv<br>
+Labels.csv
 ### Algorithm
 Collect 6-Axis data (Gyo-xyz,Acc-xyz) --> Pre-processing --> PCA --> SVM --> Prediction!
 ![image](https://github.com/ss87021456/Basketball_Shooting_Machine_Learning/blob/master/Algorithm.png)
